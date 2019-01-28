@@ -1,4 +1,4 @@
-## Que-es-weather?
+## Que es weather?
 
 Basic weather app to find weather at given location.
 
